@@ -31,8 +31,8 @@ Step 7: Save and run the application
 ```
 /*
 Program to display animation operation”.
-Developed by: Lokhnath J
-Registeration Number : 212223240079
+Developed by: JAWAHAR BABU
+Registeration Number : 212224220041
 */
 ```
 ### ACTIVITY_MAIN.XML:
